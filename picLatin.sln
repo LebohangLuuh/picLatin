@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "picLatin", "picLatin\picLatin.csproj", "{1A779E43-9204-41FA-9329-64F96703B9D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A779E43-9204-41FA-9329-64F96703B9D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A779E43-9204-41FA-9329-64F96703B9D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A779E43-9204-41FA-9329-64F96703B9D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A779E43-9204-41FA-9329-64F96703B9D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720FA70F-BEA7-4D9B-A7E5-35E7BBF85F31}
+	EndGlobalSection
+EndGlobal
